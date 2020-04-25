@@ -42,10 +42,7 @@
    <div class="collapse navbar-collapse navbar-menubuilder">
     <ul class="nav navbar-nav">
       <li class="space"><a href="compiler.php"><i class="fa fa-code ispace"></i>Compiler</a></li>
-      <li class="space"><a href="archive.php"><i class="fa fa-archive ispace"></i>Problem Archive</a></li>
-      <li class="space"><a href="contest.php"><i class="fa fa-cogs ispace"></i>Contests</a></li>
-      <li class="space"><a href="#"><i class="fa fa-check-square ispace"></i>Debug</a></li>
-     
+
       
     </ul>
     </div>
@@ -56,7 +53,7 @@
 
 <div class="row log">
 <div class="col-sm-10">
-<!--<center><div class="alert alert-success"><a href="https://github.com/shawon100/RUET-OJ">RUET OJ</a> is temporary unavailable for server problem. We will be back</div></center><br>-->
+<!--<center><div class="alert alert-success"><a href="https://github.com/shawon100/RUET-OJ">DorkLab Playground</a> is temporary unavailable for server problem. We will be back</div></center><br>-->
 <div class=""><h3 style="text-align:center;">Online Compiler</h3></div>
 </div>
 
@@ -84,8 +81,8 @@
 <option value="cpp">C++</option>
 <option value="cpp11">C++11</option>
 <option value="java">Java</option>
-<!--<option value="python2.7">Python2</option>
-<option value="python3.2">Python2</option>-->
+<option value="python2.7">Python2</option>
+<option value="python3.2">Python2</option>
   
 
 </select><br><br>
@@ -122,8 +119,8 @@
 
 <div class="fm">
 
-<b>Beta Version-2016</b><br>
-<b>Developed By <a href="https://fb.com/ashadullah.shawon">Ashadullah Shawon</a></b>
+<b>Beta Version-2020</b><br>
+<b>Developed By <a href="https://www.dorklab.net/">DorkLab</a></b>
 
 </div>
 </div>
@@ -131,7 +128,7 @@
 
 <div class="col-sm-4">
 <?php
-date_default_timezone_set("Asia/Dhaka");
+date_default_timezone_set("Asia/Kolkata");
  $t=date("H:i:s");
 echo"<b>Server Time:  $t</b>";
 
