@@ -32,16 +32,13 @@
   <div class="col-sm-12">
   <nav class="shadow navbar navbar-inverse navbar-fixed-top nbar">
     <div class="navbar-header">
-      <a class="navbar-brand lspace" href="index.php">RUET OJ</a>
+      <a class="navbar-brand lspace" href="index.php">DorkLab</a>
        <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-menubuilder"><span class="sr-only">Toggle navigation</span><span class="icon-bar"></span><span class="icon-bar"></span><span class="icon-bar"></span>
             </button>
     </div>
     <div class="collapse navbar-collapse navbar-menubuilder">
     <ul class="nav navbar-nav">
-      <li class="space"><a href="compiler.php"><i class="fa fa-code ispace"></i>Compiler</a></li>
-      <li class="space"><a href="archive.php"><i class="fa fa-archive ispace"></i>Problem Archive</a></li>
-      <li class="space"><a href="contest.php"><i class="fa fa-cogs ispace"></i>Contests</a></li>
-      <li class="space"><a href="#"><i class="fa fa-check-square ispace"></i>Debug</a></li>
+
       
       
     </ul>
@@ -119,7 +116,7 @@
 <div class="fm">
 
 <b>Beta Version-2016</b><br>
-<b>Developed By <a href="https://fb.com/ashadullah.shawon">Ashadullah Shawon</a></b>
+<b>Developed By <a href="https://www.dorklab.net/">DorkLab</a></b>
 
 </div>
 </div>
@@ -127,7 +124,7 @@
 
 <div class="col-sm-4">
 <?php
-date_default_timezone_set("Asia/Dhaka");
+date_default_timezone_set("Asia/Kolkata");
  $t=date("H:i:s");
 echo"<b>Server Time:  $t</b>";
 
