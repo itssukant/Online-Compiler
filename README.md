@@ -14,7 +14,7 @@ Linux, gcc, g++ , Java Compilers And Lampp
 # Install Projects And Compilers
 
 ```
-git clone https://github.com/shawon100/Online-Compiler.git
+git clone https://github.com/sukant-jha/online-compile.git
 
 ```
 
