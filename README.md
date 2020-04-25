@@ -1,8 +1,3 @@
-# Demo
-
-http://ruetoc-ruetoc.apps.us-east-1.starter.openshift-online.com/
-
-
 # Online-Compiler
 
 This is an online compiler that can compile and run C\C++ And Java Program. 
