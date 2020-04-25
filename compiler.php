@@ -115,7 +115,7 @@
 
 <div class="fm">
 
-<b>Beta Version-2016</b><br>
+<b>Beta Version-2020</b><br>
 <b>Developed By <a href="https://www.dorklab.net/">DorkLab</a></b>
 
 </div>
