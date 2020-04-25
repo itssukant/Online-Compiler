@@ -87,9 +87,9 @@
 
 </select><br><br>
 
-<label for="ta">Write Your Code</label>
+<label for="ta">Write Your Code Here</label>
 <textarea class="form-control" name="code" rows="10" cols="50"></textarea><br><br>
-<label for="in">Enter Your Input</label>
+<label for="in">Enter Your Input Here</label>
 <textarea class="form-control" name="input" rows="10" cols="50"></textarea><br><br>
 <input type="submit" class="btn btn-success" value="Run Code"><br><br><br>
 
