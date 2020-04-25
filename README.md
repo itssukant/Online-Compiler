@@ -5,8 +5,8 @@ http://ruetoc-ruetoc.apps.us-east-1.starter.openshift-online.com/
 
 # Online-Compiler
 
-This is an online compiler that can compile and run C\C++ And Java Program. This online compiler is a part of my 5th semester project
-"RUET Online Judge" . This Online Compiler is Developed By <a href="http://fb.com/ashadullah.shawon">Ashadullah Shawon</a>
+This is an online compiler that can compile and run C\C++ And Java Program. 
+"DorkLab Playground" . This Online Compiler is Developed By <a href="https://www.dorklab.net/">DorkLab</a>
 
 # Languages
 C , C++ And Java
